@@ -33,10 +33,10 @@ ratios for both of the top performing models were both around 3.5 and 0.22 respe
 
 |          Model         	|   Precision  	|  Sensitivity 	|  Specificity 	|    ROC AUC   	|    PRC AUC   	| Balanced Accuracy 	|
 |:---------------------:	|:------------:	|:------------:	|:------------:	|:------------:	|:------------:	|:-----------------:	|
-|                                                         VDP Neural Network                                                    |
+|                                                         #VDP Neural Network                                                   |
 |       eICU Only       	|  0.2 ±(0.01) 	| 0.79 ±(0.02) 	| 0.81 ±(0.02) 	| 0.88 ±(0.00) 	| 0.37 ±(0.02) 	|    0.80 ±(0.00)   	|
 |   eICU and MIMIC-III  	| 0.19 ±(0.00) 	| 0.80 ±(0.01) 	| 0.78 ±(0.00) 	| 0.87 ±(0.00) 	| 0.35 ±(0.02) 	|    0.79 ±(0.00)   	|
-|                                                          Deterministic Network                                                |
+|                                                          #Deterministic Network                                               |
 |       eICU Only       	| 0.21 ±(0.01) 	| 0.79 ±(0.02) 	| 0.82 ±(0.02) 	| 0.89 ±(0.00) 	| 0.43 ±(0.01) 	|    0.81 ±(0.00)   	|
 |   eICU and MIMIC-III  	| 0.19 ±(0.00) 	| 0.80 ±(0.00) 	| 0.77 ±(0.00) 	| 0.87 ±(0.00) 	| 0.39 ±(0.00) 	|    0.79 ±(0.00)   	|
 
